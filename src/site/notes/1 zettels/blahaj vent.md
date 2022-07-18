@@ -10,6 +10,7 @@ did it pay off? i guess not.
 you just don't listen to me when i tell you about the things that i genuinely want.
 maybe it's because i haven't told you about things that i actually want before.
 i didn't ask for giant shark plushies in the past ten years, because even then i was terrified of what you would say about me. i didn't want my reputation with you to be tainted because you knew that your son liked cuddly plushy things.
-i started not even asking for things for christmas, or my birthday, when i really should have. because the things that i wanted didn't fit what you thought of as your son.
+now that reaction may not have been what you thought at all, but my brain back then thought you did. that's the type of person you came off as being. so i tried to prove that i didn't want any petty possessions; that i was minimalist. stoic.
+i started not even asking for things for christmas, or my birthday, when i really should have, because the things that i wanted didn't fit what you thought of as your son.
 but that's all in the past now. you need to realise we're all humans that want stupid cute things that give us joy.
-things didn't matter to me back then; i wasn't living my life. but now i actually find meaning in the things that i get, and you don't know how much you would've meant to me if you said yes.
+things didn't matter to me back then; i wasn't living life. but now i actually find meaning in the things that i get, and you don't know how much you would've meant to me if you had said yes.
