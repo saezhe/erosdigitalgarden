@@ -9,7 +9,7 @@ enjoy your stay, wander around, or look for something specific.
 
 #### *[what is a digital garden?](https://maggieappleton.com/garden-history)*
 
-
+[[1 zettels/me|who am i?]]
 
 ---
 
