@@ -8,7 +8,7 @@ tags:: [[1 zettels/me|me]] [[id|id]]
 
 # ashby sharp:
 
-me
+me, a name, a semi-female name
 
 ---
 # references:
