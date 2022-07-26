@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-zettels/blahaj-vent/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/1-zettels/blahaj-vent/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
