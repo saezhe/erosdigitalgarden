@@ -4,10 +4,10 @@
 
 2022.07.04:07.25
 type:: #zettel
-tags:: [[1 zettels/me|me]] [[trans|trans]]
+tags:: [[1 zettels/me|me]] [[trans|trans]] [[gender|gender]]
 
-# coming out: 🤕
-i'm going by my middle name, ashby, cause i hate my first name. you will understand why in a moment.
+# coming out:
+i'm going by my middle name, [[ashby|ashby]], cause i hate my first name. you will understand why in a moment.
 
 ( im coming out as transgender )
 
