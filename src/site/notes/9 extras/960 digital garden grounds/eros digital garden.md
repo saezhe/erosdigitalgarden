@@ -12,4 +12,6 @@ enjoy your stay, wander around, or look for something specific.
 [[1 zettels/me|who am i?]]
 
 ---
+## [[9 extras/960 digital garden grounds/sitemap|sitemap]]
 
+---
