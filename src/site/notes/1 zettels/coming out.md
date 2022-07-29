@@ -4,7 +4,7 @@
 
 2022.07.04:07.25
 type:: #zettel
-tags:: [[1 zettels/me|me]] [[trans|trans]] [[gender|gender]]
+tags:: [[1 zettels/100 zettels atlas/me|me]] [[trans|trans]] [[gender|gender]]
 
 # coming out:
 i'm going by my middle name, [[ashby|ashby]], cause i hate my first name. you will understand why in a moment.
@@ -37,7 +37,7 @@ shibi
 shibes
 shibicat
 ashbycat
-{ free space :luc_smile: }
+{ free space 🙂 }
 
 ## humans being humans
 
