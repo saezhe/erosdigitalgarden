@@ -21,7 +21,7 @@ tags:: [[1 zettels/language|language]] [[1 zettels/language learning|language le
 - [[1 zettels/toki pona|toki pona]]
 - [[esperanto|esperanto]]
 - lojban
-### [[computer science|computer science]] languages:
+### [[1 zettels/100 zettels atlas/coding moc|programming]] languages:
 - [[python|python]]
 - [[java|java]]
 - [[typescript|typescript]]
