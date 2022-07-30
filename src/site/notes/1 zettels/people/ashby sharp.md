@@ -4,11 +4,11 @@
 
 2022.07.04:18.33
 type:: #zettel #person
-tags:: [[1 zettels/100 zettels atlas/me|me]] [[id|id]]
+tags:: [[1 zettels/me|me]] [[id|id]]
 
 # ashby sharp:
 
-[[1 zettels/100 zettels atlas/me|me]], a name, a semi-female name
+[[1 zettels/me|me]], a name, a semi-female name
 
 ---
 # references:
