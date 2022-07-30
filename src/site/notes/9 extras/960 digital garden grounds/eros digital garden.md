@@ -3,13 +3,13 @@
 ---
 
 
-# welcome to erosaezhe's digital garden!
+# hi! welcome to ero's garden!
+###### enjoy your stay, wander around, or look for something specific :)
 
-enjoy your stay, wander around, or look for something specific.
+this isn't just *any* garden; this is a digital one!
+*[what is a digital garden?](https://maggieappleton.com/garden-history)*
 
-#### *[what is a digital garden?](https://maggieappleton.com/garden-history)*
-
-[[1 zettels/100 zettels atlas/me|who am i?]]
+and, [[1 zettels/me|who am i?]]
 
 ---
 ## [[9 extras/960 digital garden grounds/sitemap|sitemap]]
