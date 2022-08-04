@@ -16,7 +16,7 @@ along with a query of published pages across the entire site.
 - [[9 extras/970 digital garden grounds/dg about|about]]
 	- [[2 zettels/me|who am i?]]
 	- [[2 zettels/210 agents/211 people/ashby sharp|ashby sharp]]
-	- [[2 zettels/coming out|being]] *[[2 zettels/coming out|gender expansive]]*
+	- [[2 zettels/coming out|being ]]*[[2 zettels/coming out|gender expansive]]*
 
 
 ## page query:
