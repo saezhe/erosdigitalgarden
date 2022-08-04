@@ -5,7 +5,7 @@
 
 # an introduction to potential roommates at [[5 spaces/520 clemson/+52000 clemson moc|clemson]]
 
-i'm [[1 zettels/people/ashby sharp|ashby]]! i'm a [[computer science|computer science]] major and [[1 zettels/coming out|trans girl]] thats obsessed with [[math|math]], logic, [[language|language]], [[1 zettels/100 zettels atlas/music moc|music]], and everything related to those. i'm a geek thats not into sports. i am easily distracted and i zone out sometimes, although i hate it when i do.
+i'm [[2 zettels/210 agents/211 people/ashby sharp|ashby]]! i'm a [[computer science|computer science]] major and [[2 zettels/coming out|trans girl]] thats obsessed with [[math|math]], logic, [[language|language]], [[2 zettels/200 zettels atlas/music moc|music]], and everything related to those. i'm a geek thats not into sports. i am easily distracted and i zone out sometimes, although i hate it when i do.
 
 i have been in several clubs in highschool, primarily in a FIRST robotics competition ([[FRC|FRC]]) team as the lead programmer. i have also been in academic team, theatre club, marching band, njrotc, and student council over the years.
 
@@ -27,7 +27,7 @@ Elaboration on [[lifestyle|lifestyle]] questions:
 
 i want our room to be comfortable but not distracting.
 
-i feel like parties should be hosted in rooms other than ours, but [[1 zettels/friends|friends]] are fine to come for visits. i should have existing friends over only every once in a while.
+i feel like parties should be hosted in rooms other than ours, but [[2 zettels/210 agents/211 people/+21101 friends moc|+21101 friends moc]] are fine to come for visits. i should have existing friends over only every once in a while.
 
 i aspire to go to bed early and wake up early. i really hope i can find someone who either also wants to get enough rest every day dependably, or is a natural early bird. i hope to sleep from a little before eight to a little before five, and sleep in however much is needed.
 
