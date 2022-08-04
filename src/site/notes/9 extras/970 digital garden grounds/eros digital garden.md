@@ -13,7 +13,7 @@ and, [[2 zettels/me|who am i?]]
 
 ---
 # quick links:
-- ## [[9 extras/970 digital garden grounds/eros digital garden|home]]
-- ## [[9 extras/970 digital garden grounds/dg sitemap|sitemap]]
-- ## [[000 inbox/dg about|dg about]]
+## [[9 extras/970 digital garden grounds/eros digital garden|home]]
+## [[9 extras/970 digital garden grounds/dg sitemap|sitemap]]
+## [[000 inbox/dg about|about]]
 ---
