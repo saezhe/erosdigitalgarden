@@ -19,7 +19,7 @@ list of some languages i have interacted with in some way.
 - italian
 - french
 #### constructed languages ([[conlangs|conlangs]]):
-- [[2 zettels/toki pona|toki pona]]
+- [[2 zettels/toki pona|2 zettels/toki pona]]
 - [[esperanto|esperanto]]
 - [[lojban|lojban]]
 ### [[2 zettels/200 zettels atlas/coding moc|programming]] languages:
