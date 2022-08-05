@@ -18,7 +18,7 @@ then you will do it.
 ---
 # references:
 
-[[4 study/study - The procrastination cure you don't want to hear|study - The procrastination cure you don't want to hear]]
+[[4 study/study- The procrastination cure you don't want to hear|study- The procrastination cure you don't want to hear]]
 
 ---
 template:: [[9 extras/90090 hidden/9009008 templates/900900801 templater/90090080101 zettel|90090080101 zettel]]
