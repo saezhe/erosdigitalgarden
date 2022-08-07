@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/9-extras/970-digital-garden-grounds/dg-sitemap/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"sitemap","permalink":"/sitemap/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
