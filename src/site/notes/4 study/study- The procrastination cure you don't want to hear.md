@@ -7,7 +7,7 @@ up::
 type:: #study/youtube 
 tags:: [[2 zettels/procrastination|procrastination]] [[self help|self help]]
 
-src:: https://www.youtube.com/watch?v=iow5V3Qlvwo
+src:: [https://www.youtube.com/watch?v=iow5V3Qlvwo](https://www.youtube.com/watch?v=iow5V3Qlvwo)
 originator:: [[Better Ideas|Better Ideas]]
 
 ---
@@ -44,7 +44,7 @@ don't let yourself reach for your phone by, you guessed it, making your phone ha
 
 > [!reason and example]
 > this is because humans *absolutely hate being bored*. left in solitary confinement, you would do anything, any activity provided to you, even if it hurts you. 
-> **example**: experiment where college students were put in a room with nothing except an electrocuter for multiple hours. many shocked themselves because it was much preferred than anything else they could do.
+> **example**: an experiment where college students were put in a room with nothing except an electrocuter for multiple hours. many shocked themselves because it was much preferred than anything else they could do.
 
 
 
