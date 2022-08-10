@@ -27,7 +27,7 @@ Elaboration on [[lifestyle|lifestyle]] questions:
 
 i want our room to be comfortable but not distracting.
 
-i feel like parties should be hosted in rooms other than ours, but [[2 zettels/210 agents/211 people/+21101 friends moc|+21101 friends moc]] are fine to come for visits. i should have existing friends over only every once in a while.
+i feel like parties should be hosted in rooms other than ours, but [[2 zettels/200 zettels atlas/friends moc|friends moc]] are fine to come for visits. i should have existing friends over only every once in a while.
 
 i aspire to go to bed early and wake up early. i really hope i can find someone who either also wants to get enough rest every day dependably, or is a natural early bird. i hope to sleep from a little before eight to a little before five, and sleep in however much is needed.
 
