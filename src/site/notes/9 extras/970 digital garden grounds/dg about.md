@@ -14,7 +14,7 @@ tags::
 ## FAQs:
 
 #### what is this? how did i do it?
-i am publishing this site from [[2 zettels/obsidian|obsidian]] using the [digital garden plugin](https://github.com/oleeskild/obsidian-digital-garden) by [Ole Eskild Steensen](https://ole.dev/)
+i am publishing this site from [[2 zettels/(service) obsidian|(service) obsidian]] using the [digital garden plugin](https://github.com/oleeskild/obsidian-digital-garden) by [Ole Eskild Steensen](https://ole.dev/)
 
 
 ---
@@ -23,4 +23,4 @@ i am publishing this site from [[2 zettels/obsidian|obsidian]] using the [digita
 
 
 ---
-template:: [[9 extras/90090 hidden/9009008 templates/900900801 templater/90090080101 zettel|90090080101 zettel]]
+template:: [[9 extras/90090 hidden!/hidden! 8 templates/hidden! 801 templater/hidden! 80101 zettel|hidden! 80101 zettel]]
