@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-spaces/520-clemson/packing-list-clemson-move-in/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/5-spaces/520-clemson/packing-list-clemson-move-in/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 2022.07.10:09.56.45
