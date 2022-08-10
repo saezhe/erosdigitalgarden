@@ -54,4 +54,4 @@ don't let yourself reach for your phone by, you guessed it, making your phone ha
 
 
 ---
-template:: [[9 extras/90090 hidden/9009008 templates/900900801 templater/90090080140 studies/90090080141 study|90090080141 study]]
+template:: [[9 extras/90090 hidden!/hidden! 8 templates/hidden! 801 templater/hidden! 80140 studies/hidden! 80141 study|hidden! 80141 study]]
