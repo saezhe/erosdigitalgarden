@@ -17,4 +17,4 @@ you are [[2 zettels/life|alive]]. congratulations.
 
 
 ---
-template:: [[9 extras/90090 hidden/9009008 templates/900900801 templater/90090080101 zettel|90090080101 zettel]]
+template:: [[9 extras/90090 hidden!/hidden! 8 templates/hidden! 801 templater/hidden! 80101 zettel|hidden! 80101 zettel]]
