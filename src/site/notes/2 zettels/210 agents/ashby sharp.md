@@ -3,7 +3,7 @@
 ---
 
 2022.07.04:18.33
-type:: #zettel #person
+type:: #zettel #agent/person
 tags:: [[2 zettels/me|me]] [[id|id]]
 
 # ashby sharp:
