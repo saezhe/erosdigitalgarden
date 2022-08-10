@@ -5,11 +5,11 @@
 up:: [[+0 index|+0 index]]
 ts:: 2022.08.03:20.10.38.501
 type:: #zettel
-tags:: [[2 zettels/obsidian|obsidian]] [[2 zettels/200 zettels atlas/+200 zettels|+200 zettels]]
+tags:: [[2 zettels/(service) obsidian|(service) obsidian]] [[2 zettels/200 zettels atlas/+200 zettels|+200 zettels]]
 
 # bibasic decimal system:
 
-i use this system i made up to index my [[2 zettels/zettelkasten|zettels]] in my [[2 zettels/obsidian|obsidian]] vault.
+i use this system i made up to index my [[2 zettels/zettelkasten|zettels]] in my [[2 zettels/(service) obsidian|(service) obsidian]] vault.
 
 ## explanation:
 
