@@ -22,6 +22,7 @@ along with a query of published pages across the entire site.
 ## page query:
 | page                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------- |
+| [[4 study/(study) LYT kit 6.md\|(study) LYT kit 6]]                                                                           |
 | [[9 extras/970 digital garden grounds/dg about.md\|dg about]]                                                                 |
 | [[2 zettels/procrastination.md\|procrastination]]                                                                             |
 | [[4 study/study- The procrastination cure you don't want to hear.md\|study- The procrastination cure you don't want to hear]] |
