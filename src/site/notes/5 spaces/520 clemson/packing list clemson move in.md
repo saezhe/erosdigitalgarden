@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/5-spaces/520-clemson/packing-list-clemson-move-in/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
-2022.07.10:09.56.45
-type:: #list #packingList
-tags:: [[5 spaces/520 clemson/+52000 clemson moc|clemson]]|[[5 spaces/520 clemson/clemson move in 2022|move in 2022]]
+ts:: 2022.07.10:09.56.45
+type:: #list/packingList
+status:: 
+tags:: [[5 spaces/520 clemson/-52000 clemson space|clemson]]|[[5 spaces/520 clemson/clemson move in 2022|move in 2022]]
 
 # packing list clemson move in
 
@@ -12,6 +13,10 @@ https://housing.clemson.edu/housing/move-in/
 
 ## essentials:
 - [ ] phone
+	- [ ] phone charger
+	- [ ] charging cord
+	- [ ] wall adapter
+	- [ ] battery pack
 - [ ] wallet
 	- [ ] drivers license
 	- [ ] clemson id / food card?
@@ -26,30 +31,33 @@ https://housing.clemson.edu/housing/move-in/
 	- [ ] cetirizine
 	- [ ] montelukast
 	- [ ] fluticasone propionate
-- [ ] laptop / charger (**[CCIT’s List (?)](https://ccit.clemson.edu/support/current students/laptops/)**)
+- [ ] laptop (**[CCIT’s List (?)](https://ccit.clemson.edu/support/current students/laptops/)**)
+	- [ ] laptop charger
 - [ ] important documents
 
 ### also important:
 - [ ] backup food
 - [ ] water bottles
 - [ ] reusable water bottle
-- [ ] first aid kit/medicine
-	- [ ] bandages
+- [x] first aid kit/medicine
+	- [x] bandages
 - [ ] ear buds / case
+- [x] USB C<->C cable
 
 ## bedding:
-- [ ] bedding to fit an extra long twin mattress: mattress cover/topper, sheets, pillows, blankets
-	- [ ] sheets
-	- [ ] pillow cases
-	- [ ] 1.5” foam mattress toppers *2 of them*
-	- [ ] mattress cover
+- [x] bedding to fit an extra long twin mattress: mattress cover/topper, sheets, pillows, blankets
+	- [x] sheets
+	- [x] pillow cases
+	- [x] 1.5” foam mattress toppers *2 of them*
+	- [x] mattress cover
 
 ## toiletries:
 - [ ] flip flops for showering
 - [ ] towels (bath, hand, washcloth)
+- [x] portable shower caddy
+- [ ] shampoo/conditioner
 - [ ] doppelt bag: Not stands for nothin’ (toiletries / cosmetics)
-	### in doppelt bag:
-	- [ ] shampoo/conditioner
+	# in doppelt bag:
 	- [ ] rodan & fields
 		- [ ] spotless 1
 		- [ ] spotless 2
@@ -69,9 +77,9 @@ https://housing.clemson.edu/housing/move-in/
 
 ## school supplies:
 - [ ] book bag
-- [ ] smart tags
-- [ ] computer (PC)
-	- [ ] tower
+- [x] existing textbooks
+- [x] smart tags
+- [ ] computer setup
 	- [ ] mouse
 	- [ ] keyboard
 	- [ ] monitor
@@ -79,12 +87,12 @@ https://housing.clemson.edu/housing/move-in/
 - [ ] notebooks
 
  ### office supplies:
-- [ ] scratch notebook paper
-- [ ] pens
-- [ ] pencils
+- [x] scratch notebook paper
+- [x] pens
+- [x] pencils
 - [ ] stapler
 - [ ] scotch tape
-- [ ] scissors
+- [x] scissors
 - [ ] ruler
 - [ ] tape measure
 
@@ -114,11 +122,15 @@ https://housing.clemson.edu/housing/move-in/
 
 ## room supplies:
 - [ ] trash can
-- [ ] broom & dustpan or small vacuum
+- [ ] wireless phone charger
+	- [ ] charging cord
+	- [ ] wall adapter
+- [ ] broom & dustpan
+	- [ ] a/o small vacuum
 - [ ] laundry basket, detergent & fabric softener (for HE machines)
 - [ ] clothes hangers
 - [ ] storage bins
-- [ ] folding chairs, inflatable seating, etc?
+- [x] ~~folding chairs, inflatable seating, etc?~~ BIG JOE
 - [ ] push pins or white sticky tack
 - [ ] a few dishes (bowl, plate, flatware)
 - [ ] can opener?
@@ -127,4 +139,20 @@ https://housing.clemson.edu/housing/move-in/
 - [ ] **[Television, mini projector, or tablet](https://housing.clemson.edu/housing/resources/tech/)**
 - [ ] Power strip (no extension cords)
 
+- [ ] tylenol
+- [ ] fever thermometer
+- [x] tissue paper
+- [ ] kleenex
+- [ ] zip lock bags
+- [x] commad strips
+- [x] dish soap to wash food containers and utensils
+- [ ] kitchen towel, dish cloth
+- [ ] white board
+	- [x] expo markers
+	- [ ] expo eraser
+	- [ ] white board cleaner, cloth
 
+
+
+---
+template:: [[9 extras/90090 hidden!/hidden! 8 templates/hidden! 801 templater/hidden! 80112 list/hidden! 8011202 packing list|hidden! 8011202 packing list]]
