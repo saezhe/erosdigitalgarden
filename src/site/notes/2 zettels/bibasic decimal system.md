@@ -2,14 +2,15 @@
 {"dg-publish":true,"permalink":"/2-zettels/bibasic-decimal-system/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-up:: [[+0 index|+0 index]]
-ts:: 2022.08.03:20.10.38.501
+up:: [[-0 codex|-0 codex]]
+ts:: 2022.08.03:20.10.38:501
 type:: #zettel
-tags:: [[2 zettels/(service) obsidian|(service) obsidian]] [[2 zettels/200 zettels atlas/+200 zettels|+200 zettels]]
+status:: #sapling
+tags:: [[2 zettels/210 entities/obsidian (service)|obsidian (service)]] [[2 zettels/200 zettels atlas/-2 zettels atlas|-2 zettels atlas]]
 
 # bibasic decimal system:
 
-i use this system i made up to index my [[2 zettels/zettelkasten|zettels]] in my [[2 zettels/(service) obsidian|(service) obsidian]] vault.
+i use this system i made up to index my [[2 zettels/zettelkasten|zettels]] in my [[2 zettels/210 entities/obsidian (service)|obsidian (service)]] vault.
 
 ## explanation:
 
