@@ -9,7 +9,7 @@
 this isn't just *any* garden; this is a digital one!
 *[what is a digital garden?](https://maggieappleton.com/garden-history)*
 
-and, [[2 zettels/me|who am i?]]
+and, [[2 zettels/210 entities/me|who am i?]]
 
 ---
 # quick links:
