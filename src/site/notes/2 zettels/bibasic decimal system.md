@@ -52,7 +52,7 @@ this is compatible with many bases, but one base i'd really want to use with thi
 ---
 # references:
 
-[[1 inbox/old bibasic decimal system archived|old bibasic decimal system archived]]
+[[9 extras/9.100 hidden!/hidden! 2 archive/old bibasic decimal system archived|old bibasic decimal system archived]]
 
 
 [^1]: potentially content in files too but i see no need to.
