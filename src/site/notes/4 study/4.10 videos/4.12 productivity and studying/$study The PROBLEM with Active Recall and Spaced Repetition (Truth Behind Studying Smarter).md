@@ -9,7 +9,7 @@ status::
 tags:: [[studying|studying]] [[2 zettels/2.20 concepts/learning|learning]] [[cognitive load|cognitive load]] [[2 zettels/2.20 concepts/spaced repition|spaced repition]]
 
 src:: https://youtu.be/--Hu2w0s72Y
-originator:: [[2 zettels/2.10 entities/justin sung|justin sung]]
+originator:: [[2 zettels/2.10 entities/@justin sung|@justin sung]]
 
 ---
 
