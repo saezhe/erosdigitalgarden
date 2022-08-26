@@ -9,7 +9,7 @@ status::
 tags:: [[2 zettels/2.30 collections/wisdom|wisdom]]
 
 src:: https://www.youtube.com/watch?v=7WXT09R4Tlo
-originator:: [[2 zettels/2.10 entities/dajolens|dajolens]]
+originator:: [[2 zettels/2.10 entities/route 42|route 42]]
 
 ---
 
@@ -20,7 +20,7 @@ originator:: [[2 zettels/2.10 entities/dajolens|dajolens]]
 three things you can't learn in any [[online courses|online course]]
 - [[inspiration|inspiration]]
 - [[motivation|motivation]]
-- [[1 inbox/happiness|happiness]]
+- [[happiness|happiness]]
 
 why?
 
@@ -112,10 +112,10 @@ and, happiness is a biproduct. (of [[4 study/4.10 videos/$study I was denied a s
 '
 in [[german|german]], the word "glück" has three different meanings.
 - [[luck|luck]]
-- [[1 inbox/happiness|happiness]]
+- [[happiness|happiness]]
 - [[success|success]]
 '
-this equating of these three definitions are a symptom of one of the most common human [[fallacy|fallacies]]: that [[success|success]] is the thing that *causes* [[1 inbox/happiness|happiness]]. people [[strive|strive]] for [[success|success]] because they see a [[idols|public few]] who have achieved it, but they can't see the [[vast majority|millions of others]] who [[failure|failed]] to achieve the same [[success|success]].
+this equating of these three definitions are a symptom of one of the most common human [[fallacy|fallacies]]: that [[success|success]] is the thing that *causes* [[happiness|happiness]]. people [[strive|strive]] for [[success|success]] because they see a [[idols|public few]] who have achieved it, but they can't see the [[vast majority|millions of others]] who [[failure|failed]] to achieve the same [[success|success]].
 
 [[luck|luck]] is widely understood to beget no [[control|control]] to humans. sometimes we are lucky and sometimes we are unlucky; luck is a [[description|description]] more than a [[property|property]]. nevertheless, we can try to put ourselves in more situations where a lucky thing might happen, by being more [[active|active]] and [[being in the now|present]].
 
