@@ -2,14 +2,14 @@
 {"dg-publish":true,"permalink":"/4-study/4-10-videos/4-12-productivity-and-studying/study-the-problem-with-active-recall-and-spaced-repetition-truth-behind-studying-smarter/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-up:: [[4 study/4. study atlas/-4 study notes|-4 study notes]]
+up:: [[-400 study notes|-400 study notes]]
 ts:: 2022.08.02:14.27.36:804
 type:: #study/video
 status:: 
 tags:: [[studying|studying]] [[2 zettels/2.20 concepts/learning|learning]] [[cognitive load|cognitive load]] [[2 zettels/2.20 concepts/spaced repition|spaced repition]]
 
 src:: https://youtu.be/--Hu2w0s72Y
-originator:: [[2 zettels/2.10 entities/@justin sung|@justin sung]]
+originator:: [[justin sung|justin sung]]
 
 ---
 
@@ -48,4 +48,4 @@ originator:: [[2 zettels/2.10 entities/@justin sung|@justin sung]]
 
 
 ---
-template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 801 templater/hidden! 80140 studies/hidden! 80141 study|hidden! 80141 study]]
+template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.40 studies/hidden! 8.01.41 study|hidden! 8.01.41 study]]
