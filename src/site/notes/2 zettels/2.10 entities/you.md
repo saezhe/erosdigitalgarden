@@ -20,4 +20,4 @@ you can do something with your [[2 zettels/life|life]], if you [[want|want]] to!
 
 
 ---
-template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 801 templater/hidden! 80101 zettels/hidden! 80101 zettel|hidden! 80101 zettel]]
+template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.01 zettels/hidden! 8.01.01 zettel|hidden! 8.01.01 zettel]]
