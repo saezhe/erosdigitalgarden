@@ -18,7 +18,7 @@ my body's name is [[2 zettels/2.10 entities/@ashby sharp|@ashby sharp]]. ^[all m
 
 stuff about my life i like to [[rember|rember]]: [[6 rember/rember life general|rember life general]]
 
-my person is [[3 logs/2022.07/2022.07.04 coming out|transgender female]] 
+my person is [[3 logs/m.2022.07/2022.07.04 coming out|transgender female]] 
 
 my struggles: listed at [[2 zettels/2.30 collections/list of ughs|the ugh corner]]
 
