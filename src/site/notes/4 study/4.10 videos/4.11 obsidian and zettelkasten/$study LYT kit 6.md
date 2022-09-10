@@ -77,6 +77,6 @@ the effect of this is that it *augments* the human brain with a tool that *behav
 
 
 ---
-template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 801 templater/hidden! 80140 studies/hidden! 80141 study|hidden! 80141 study]]
+template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.40 studies/hidden! 8.01.41 study|hidden! 8.01.41 study]]
 
 
