@@ -65,7 +65,7 @@ motivation comes from action; it is a reaction to action, and to get action [[2 
 [[4 study/4.10 videos/$study I was denied a scholarship. That's why I started this.|$study I was denied a scholarship. That's why I started this.]]
 
 ---
-template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 801 templater/hidden! 80101 zettels/hidden! 80101 zettel|hidden! 80101 zettel]]
+template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.01 zettels/hidden! 8.01.01 zettel|hidden! 8.01.01 zettel]]
 
 
 </div></div>
@@ -143,4 +143,4 @@ remember, [[2 zettels/2.20 concepts/discipline|discipline]] is just doing the [[
 
 
 ---
-template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 801 templater/hidden! 80140 studies/hidden! 80141 study|hidden! 80141 study]]
+template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.40 studies/hidden! 8.01.41 study|hidden! 8.01.41 study]]
