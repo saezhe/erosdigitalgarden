@@ -12,12 +12,12 @@ tags:: [[5 spaces/5.20 clemson/5.20. clemson atlas/-5.20 clemson space|clemson]]
 https://housing.clemson.edu/housing/move-in/
 
 ## essentials:
-- [ ] phone
-	- [ ] phone charger
-	- [ ] charging cord
-	- [ ] wall adapter
-	- [ ] battery pack
-- [ ] wallet
+- [x] phone
+	- [x] phone charger
+	- [x] charging cord
+	- [x] wall adapter
+	- [x] battery pack
+- [x] wallet
 	- [x] drivers license
 	- [ ] ~~clemson id / food card?~~
 	- [x] debit card
@@ -25,14 +25,14 @@ https://housing.clemson.edu/housing/move-in/
 - [ ] ~~keys to dorm room~~
 - [ ] ~~keys to house~~
 - [ ] ~~keys to car?~~
-- [ ] aligners / case
+- [x] aligners / case
 - [x] other aligners and supplies
 - [x] medicines / prescription meds
 	- [x] multivitamins
 	- [x] cetirizine
 	- [x] montelukast
 	- [x] fluticasone propionate
-- [ ] laptop (**[CCIT’s List (?)](https://ccit.clemson.edu/support/current students/laptops/)**)
+- [x] laptop (**[CCIT’s List (?)](https://ccit.clemson.edu/support/current students/laptops/)**)
 	- [x] laptop charger
 	- [x] laptop peripheral
 - [x] important documents
@@ -89,12 +89,12 @@ https://housing.clemson.edu/housing/move-in/
 - [x] book bag
 - [x] existing textbooks
 - [x] smart tags
-- [ ] computer setup
+- [x] computer setup
 	- [x] mouse
 	- [x] keyboard
 	- [ ] ~~monitor~~
 	- [x] headphones
-- [ ] notebooks
+- [ ] ~~notebooks~~
 
  ### office supplies:
 - [x] scratch notebook paper
@@ -107,7 +107,7 @@ https://housing.clemson.edu/housing/move-in/
 - [x] tape measure
 
 ## clothes:
-- [ ] clothes for the fall semester
+- [x] clothes for the fall semester
 - [x] clothes
 	- [ ] ~~coat / jacket~~
 		- [x] hoodie
@@ -136,9 +136,9 @@ https://housing.clemson.edu/housing/move-in/
 
 ## room supplies:
 - [x] trash can
-- [ ] wireless phone charger
-	- [ ] charging cord
-	- [ ] wall adapter
+- [x] wireless phone charger
+	- [x] charging cord
+	- [x] wall adapter
 - [x] broom & dustpan
 	- [ ] ~~a/o small vacuum~~
 - [x] laundry basket
@@ -156,7 +156,7 @@ https://housing.clemson.edu/housing/move-in/
 - [x] Power strip (no extension cords)
 - [x] area rug
 
-- [ ] tylenol
+- [x] tylenol
 - [ ] ~~fever thermometer~~
 - [x] tissue paper
 - [x] kleenex
@@ -168,11 +168,56 @@ https://housing.clemson.edu/housing/move-in/
 	- [x] expo markers
 	- [x] expo eraser [completion:: 2022-08-19]
 	- [x] white board cleaner, cloth [completion:: 2022-08-19]
-- [ ] paintings (~5)
+- [x] paintings (~5)
+
+## things i thought of afterwards:
+- [ ] hand sanitiser
+- [ ] water jug? [[should i have sink water or filtered bottle refill water for cooking (ramen)|should i have sink water or filtered bottle refill water for cooking (ramen)]]
+- [ ] ✨ fem products ✨
+- [ ] bathroom scale?
+- [ ] command strips
+- [ ] binder clips
+- [ ] sticky notes, for reminders! communicating with yourself visually at the location where it's needed the most.
+- [ ] bike helmet
+- [ ] masks
+- [ ] notebooks
 
 ---
 # not completed query:
+- [ ] ~~clemson id / food card?~~
+- [ ] ~~keys to dorm room~~
+- [ ] ~~keys to house~~
+- [ ] ~~keys to car?~~
+- [ ] ~~/ conditioner~~
+- [ ] ~~monitor~~
+- [ ] ~~notebooks~~
+- [ ] ~~stapler~~
+- [ ] ~~scotch tape~~
+- [ ] ~~ruler~~
+- [ ] ~~coat / jacket~~
+    - [x] hoodie
+- [ ] ~~belt~~
+- [ ] ~~rain jacket~~
+    - [ ] ~~rain boots?~~
+    - [x] umbrella
+- [ ] ~~a/o small vacuum~~
+- [ ] storage bins
+- [ ] ~~push pins or white sticky tack~~
+- [ ] ~~can opener?~~
+- [ ] ~~**[Television, mini projector, or tablet](https://housing.clemson.edu/housing/resources/tech/)**~~
+- [ ] ~~fever thermometer~~
+- [ ] ~~zip lock bags~~
+- [ ] hand sanitiser
+- [ ] water jug? [[should i have sink water or filtered bottle refill water for cooking (ramen)|should i have sink water or filtered bottle refill water for cooking (ramen)]]
+- [ ] ✨ fem products ✨
+- [ ] bathroom scale?
+- [ ] command strips
+- [ ] binder clips
+- [ ] sticky notes, for reminders! communicating with yourself visually at the location where it's needed the most.
+- [ ] bike helmet
+- [ ] masks
+- [ ] notebooks
 
 
 ---
-template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 801 templater/hidden! 80112 list/hidden! 8011202 packing list|hidden! 8011202 packing list]]
+template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.12 list/hidden! 8.01.12.02 packing list|hidden! 8.01.12.02 packing list]]
