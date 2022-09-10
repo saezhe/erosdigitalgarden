@@ -25,7 +25,7 @@ the **wider world** can be an *indespensible* source of [[2 zettels/2.30 collect
 ---
 # references:
 
-[[3 logs/2022.07/2022.08.13 i absorb ideas|2022.08.13 i absorb ideas]]
+[[3 logs/m.2022.07/2022.08.13 i absorb ideas|2022.08.13 i absorb ideas]]
 
 ---
-template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 801 templater/hidden! 80101 zettels/hidden! 80101 zettel|hidden! 80101 zettel]]
+template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.01 zettels/hidden! 8.01.01 zettel|hidden! 8.01.01 zettel]]
