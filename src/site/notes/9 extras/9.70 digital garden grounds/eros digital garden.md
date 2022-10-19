@@ -11,9 +11,9 @@ this isn't just *any* garden; this is a digital one!
 
 and, [[2 zettels/2.10 entities/me|who am i?]]
 
----
+____
 # quick links:
 ## [[9 extras/9.70 digital garden grounds/eros digital garden|home]]
 ## [[9 extras/9.70 digital garden grounds/dg sitemap|sitemap]]
 ## [[9 extras/9.70 digital garden grounds/dg about|about]]
----
+____
