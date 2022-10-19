@@ -52,7 +52,7 @@ three digits (extension of current system): `0001`-`0999`
 
 this is compatible with many bases, but one base i'd really want to use with this is [[seximal|base six]], my favorite base!
 
----
+____
 # references:
 
 [^1]: potentially content in files too but i see no need to.
