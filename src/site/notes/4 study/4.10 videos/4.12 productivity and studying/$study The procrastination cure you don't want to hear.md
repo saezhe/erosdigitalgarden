@@ -7,10 +7,10 @@ ts:: 2022.08.02:18.11.27.798
 type:: #study/video 
 tags:: [[2 zettels/2.20 concepts/procrastination|procrastination]] [[self help|self help]]
 
-src:: https://www.youtube.com/watch?v=iow5V3Qlvwo
-originator:: [[Better Ideas|Better Ideas]]
+src:: [https://www.youtube.com/watch?v=iow5V3Qlvwo](https://www.youtube.com/watch?v=iow5V3Qlvwo)
+originator:: [[better ideas|better ideas]]
 
----
+____
 
 # The procrastination cure you don't want to hear
 
@@ -48,10 +48,10 @@ don't let yourself reach for your phone by, you guessed it, making your phone ha
 
 
 
----
+____
 ## sum up, importance, commentary:
 
 
 
----
+____
 template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.40 studies/hidden! 8.01.41 study|hidden! 8.01.41 study]]
