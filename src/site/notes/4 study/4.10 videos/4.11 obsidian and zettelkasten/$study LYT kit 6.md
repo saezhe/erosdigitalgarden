@@ -28,7 +28,7 @@ originator:: [[@nick milo|@nick milo]]
 [Lesson 5: Get ACCESS to your thoughts and ideas](https://player.vimeo.com/video/709955731?h=1d3b26bc4d)
 [Lesson 6: Manage your projects more easily with Spaces](https://player.vimeo.com/video/711979883?h=8c4f7b7087)
 
----
+____
 
 # LYT kit 6
 
@@ -39,7 +39,7 @@ originator:: [[@nick milo|@nick milo]]
 ###### what were we doing before linked notes? (the history)
 
 the most natural form of [[2 zettels/2.20 concepts/note making|note formation]] is in your mind. everything else augments this form.
-when your mind creates [[connections|connections]] between things it takes in and things that it already knows, it [[6 rember/-600 rember|remembers]] that [[information|information]].
+when your mind creates [[2 zettels/connection|connection]] between things it takes in and things that it already knows, it [[6 rember/-6 rember|remembers]] that [[information|information]].
 
 the oldest form of non-biological ([[technology|technological]]) note taking is writing things down physically.
 when the technological age arrived, we began to have digital tools for taking notes that were based on simulating writing, such as MS word. these types of things have documents that are totally separate and clunky to write.
@@ -71,12 +71,12 @@ the effect of this is that it *augments* the human brain with a tool that *behav
 
 
 
----
+____
 ## sum up, importance, commentary:
 
 
 
----
+____
 template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.40 studies/hidden! 8.01.41 study|hidden! 8.01.41 study]]
 
 
