@@ -3,7 +3,7 @@
 ---
 
 
-# hi! welcome to ero's garden!
+# hi! welcome to [ero's garden](https://erosaezhe.netlify.app/)!
 ###### enjoy your stay, wander around, or look for something specific :)
 
 this isn't just *any* garden; this is a digital one!
