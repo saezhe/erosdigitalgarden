@@ -5,7 +5,7 @@
 up:: [[-0 codex|-0 codex]]
 ts:: 2022.08.03:20.10.38:501
 type:: #zettel
-status:: #sapling
+status:: #c
 tags:: [[2 zettels/2.10 entities/$service obsidian|$service obsidian]] [[2 zettels/2. zettels atlas/-2 zettels atlas|-2 zettels atlas]]
 
 # bibasic decimal system:
@@ -49,7 +49,7 @@ a custom directory prefix is helpful when digits get too deep: `foo! `, where `f
 
 this is compatible with many bases, but one base i'd really want to use with this is [[seximal|base six]], my favorite base!
 
----
+____
 # references:
 
 [[9 extras/9.100 hidden!/hidden! 2 archive/old bibasic decimal system archived|old bibasic decimal system archived]]
