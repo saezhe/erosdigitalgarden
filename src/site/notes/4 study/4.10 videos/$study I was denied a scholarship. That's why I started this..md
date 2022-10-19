@@ -11,7 +11,7 @@ tags:: [[2 zettels/2.30 collections/wisdom|wisdom]]
 src:: https://www.youtube.com/watch?v=7WXT09R4Tlo
 originator:: [[2 zettels/2.10 entities/route 42|route 42]]
 
----
+____
 
 # I was denied a scholarship. That's why I started this.
 
@@ -50,21 +50,21 @@ how to learn [[motivation|motivation]]? learn [[2 zettels/2.20 concepts/discipli
 up:: 
 ts:: 2022.08.15:18.55.44:155
 type:: #zettel
-status:: #seedling 
+status:: #b 
 tags:: 
 
 # motivation comes from action
----
+____
 
 motivation comes from action; it is a reaction to action, and to get action [[2 zettels/2.10 entities/you|you]] must make a start. making a start requires [[2 zettels/2.20 concepts/discipline|discipline]].
 'having discipline -> getting a start -> getting feedback => motivation'
 
----
+____
 # references:
 
 [[4 study/4.10 videos/$study I was denied a scholarship. That's why I started this.|$study I was denied a scholarship. That's why I started this.]]
 
----
+____
 template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.01 zettels/hidden! 8.01.01 zettel|hidden! 8.01.01 zettel]]
 
 
@@ -137,10 +137,10 @@ do the things! get down to business!
 remember, [[2 zettels/2.20 concepts/discipline|discipline]] is just doing the [[2 zettels/choice|choices]] that keep you on a path where you are happy!
 
 
----
+____
 ## sum up, importance, commentary:
 
 
 
----
+____
 template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.40 studies/hidden! 8.01.41 study|hidden! 8.01.41 study]]
