@@ -5,7 +5,7 @@
 ts:: 2022.07.10:09.56.45
 type:: #list/packingList
 status:: 
-tags:: [[5 spaces/5.20 clemson/5.20. clemson atlas/-5.20 clemson space|clemson]]|[[5 spaces/5.20 clemson/clemson move in 2022|move in 2022]]
+tags:: [[5 spaces/5.20 clemson/5.20. clemson atlas/-5.20 school space|clemson]]|[[5 spaces/5.20 clemson/clemson move in 2022|move in 2022]]
 
 # packing list clemson move in
 
@@ -182,7 +182,7 @@ https://housing.clemson.edu/housing/move-in/
 - [ ] masks
 - [ ] notebooks
 
----
+____
 # not completed query:
 - [ ] ~~clemson id / food card?~~
 - [ ] ~~keys to dorm room~~
@@ -219,5 +219,5 @@ https://housing.clemson.edu/housing/move-in/
 - [ ] notebooks
 
 
----
+____
 template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.12 list/hidden! 8.01.12.02 packing list|hidden! 8.01.12.02 packing list]]
