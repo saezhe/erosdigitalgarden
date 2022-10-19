@@ -18,10 +18,10 @@ tags::
 i am publishing this site from [[2 zettels/2.10 entities/$service obsidian|$service obsidian]] using the [digital garden plugin](https://github.com/oleeskild/obsidian-digital-garden) by [Ole Eskild Steensen](https://ole.dev/)
 
 
----
+____
 # references:
 
 
 
----
+____
 template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.01 zettels/hidden! 8.01.01 zettel|hidden! 8.01.01 zettel]]
