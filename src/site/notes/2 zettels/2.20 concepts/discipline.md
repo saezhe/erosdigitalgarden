@@ -5,7 +5,7 @@
 up:: [[2 zettels/2.20 concepts/-2.20 concepts moc|-2.20 concepts moc]]
 ts:: 2022.08.09:11.52.53:320
 type:: #zettel
-status:: #sapling 
+status:: #c 
 tags:: [[willpower|willpower]] [[choices|choices]]
 
 # discipline
@@ -13,7 +13,7 @@ related: [[willpower|willpower]]
 
 discipline is enacting our [[agency|agency]] towards our [[long term fulfillment|long term fulfillment]].
 
-[[connection|connection]] to [[2 zettels/2.20 concepts/the r factor|the r factor]]: the only thing you can control is the choices you make in action because of events.
+[[2 zettels/connection|connection]] to [[2 zettels/2.20 concepts/the r factor|the r factor]]: the only thing you can control is the choices you make in action because of events.
 i think that they are one in the same. dispcipline is the way you manage your r factor. whethere you choose to give up because of events or perservere.
 
 ### etymology
@@ -45,10 +45,10 @@ it is **not** compliance.
 
 
 
----
+____
 # references:
 
 [https://focus3.com/what-does-discipline-mean/](https://focus3.com/what-does-discipline-mean/)
 
----
+____
 template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.01 zettels/hidden! 8.01.01 zettel|hidden! 8.01.01 zettel]]
