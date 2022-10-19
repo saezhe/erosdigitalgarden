@@ -4,7 +4,7 @@
 
 up: [[2 zettels/2. zettels atlas/-2 zettels atlas|-2 zettels atlas]]
 ts:: 2022.07.06:18.49
-type:: #zettel
+type:: #zettel/person 
 status:: 
 tags:: [[2 zettels/life|life]] [[5 spaces/5.10 life/-5.10 life space|-5.10 life space]] [[9 extras/9.70 digital garden grounds/eros digital garden|eros digital garden]]
 
@@ -24,4 +24,4 @@ my struggles: listed at [[2 zettels/2.30 collections/list of ughs|the ugh corner
 
 
 
----
+____
