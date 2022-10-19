@@ -2,16 +2,16 @@
 {"dg-publish":true,"permalink":"/4-study/4-10-videos/4-12-productivity-and-studying/study-the-problem-with-active-recall-and-spaced-repetition-truth-behind-studying-smarter/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-up:: [[-400 study notes|-400 study notes]]
+up:: [[4 study/4. study atlas/-4 study notes|-4 study notes]]
 ts:: 2022.08.02:14.27.36:804
 type:: #study/video
 status:: 
 tags:: [[studying|studying]] [[2 zettels/2.20 concepts/learning|learning]] [[cognitive load|cognitive load]] [[2 zettels/2.20 concepts/spaced repition|spaced repition]]
 
-src:: https://youtu.be/--Hu2w0s72Y
+src:: [https://youtu.be/--Hu2w0s72Y](https://youtu.be/--Hu2w0s72Y)
 originator:: [[justin sung|justin sung]]
 
----
+____
 
 # The PROBLEM with Active Recall and Spaced Repetition (Truth Behind Studying Smarter)
 
@@ -21,9 +21,9 @@ originator:: [[justin sung|justin sung]]
 - Studying is physical while learning is a cognitive process
 - Studying techniques that produce low learning are time consuming
 - Different techniques invoke different levels of learning
-- Memory going into [[longterm memory|longterm memory]] is called [[2 zettels/2.20 concepts/encoding (learning)|encoding (learning)]]
+- Memory going into [[1 inbox/long term memory|longterm memory]] is called [[2 zettels/2.20 concepts/encoding (learning)|encoding (learning)]]
 - Level of encoding determines a significant amount of retention
-- Retrieving memory from longterm memory to [[working memory|working memory]] in order to use it for applications is called [[retrieval (learning)|retrieval (learning)]]
+- Retrieving memory from [[1 inbox/long term memory|longterm memory]] to [[working memory|working memory]] in order to use it for applications is called [[retrieval (learning)|retrieval (learning)]]
 - Information that is in working memory instead of long term is forgotten very quickly
 - Active recall and spaced repetition work through adjusting the forgetting curve only through repetition
 - This is only working on retrieval aspect of memory only (This doesn't help with encoding)
@@ -42,10 +42,10 @@ originator:: [[justin sung|justin sung]]
 - This creates a spiral of unknowledgeable people creating videos about common techniques that are not as effective as they claim, making it more available, increasing its perceived legitmacy
 - Considering that encoding is naturally difficult, this makes encoding techniques very uncommonly talked about
 
----
+____
 ## sum up, importance, commentary:
 
 
 
----
+____
 template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.40 studies/hidden! 8.01.41 study|hidden! 8.01.41 study]]
