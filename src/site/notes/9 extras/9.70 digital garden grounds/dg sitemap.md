@@ -24,7 +24,7 @@ along with a query of published pages across the entire site.
 | page                                                                                                                                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[4 study/4.10 videos/4.12 productivity and studying/$study The PROBLEM with Active Recall and Spaced Repetition (Truth Behind Studying Smarter).md\|$study The PROBLEM with Active Recall and Spaced Repetition (Truth Behind Studying Smarter)]] |
-| [[1 inbox/the 8 greek types of love.md\|the 8 greek types of love]]                                                                                                                                                                                |
+| [[2 zettels/the 8 greek types of love.md\|the 8 greek types of love]]                                                                                                                                                                              |
 | [[4 study/4.10 videos/$study I was denied a scholarship. That's why I started this..md\|$study I was denied a scholarship. That's why I started this.]]                                                                                            |
 | [[4 study/4.10 videos/4.12 productivity and studying/$study The procrastination cure you don't want to hear.md\|$study The procrastination cure you don't want to hear]]                                                                           |
 | [[2 zettels/2.10 entities/@ashby sharp.md\|@ashby sharp]]                                                                                                                                                                                          |
@@ -43,5 +43,5 @@ along with a query of published pages across the entire site.
 | [[9 extras/9.70 digital garden grounds/dg about.md\|dg about]]                                                                                                                                                                                     |
 
 
----
+____
 
