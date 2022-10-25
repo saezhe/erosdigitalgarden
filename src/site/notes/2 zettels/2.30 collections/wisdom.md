@@ -11,7 +11,7 @@ tags::
 # wisdom
 
 wise lessons from people who have learned things the hard way.
-wisdom that i myself pass down are listed in [[2 zettels/2.30 collections/lessons to my children|lessons to my children]].
+wisdom that i myself pass down are listed in [[5 spaces/5.10 life/5.12 personal/lessons to my children|lessons to my children]].
 
 
 
