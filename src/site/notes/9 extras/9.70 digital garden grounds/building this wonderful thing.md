@@ -6,7 +6,7 @@ up:: [[9 extras/9.70 digital garden grounds/eros digital garden|eros digital gar
 ts:: 2022.08.09:20.05.52:294
 type:: #zettel
 status:: 
-tags:: [[2 zettels/digital gardening|digital gardening]] [[2 zettels/2.10 entities/$service obsidian|obsidian]] 
+tags:: [[2 zettels/digital gardening|digital gardening]] [[$service obsidian|obsidian]] 
 
 digital garden:
 - direct link: https://erosaezhe.netlify.app/
