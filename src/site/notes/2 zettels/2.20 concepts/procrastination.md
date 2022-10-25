@@ -19,7 +19,7 @@ then you will do it.
 ____
 # references:
 
-[[4 study/4.10 videos/4.12 productivity and studying/$study The procrastination cure you don't want to hear|$study The procrastination cure you don't want to hear]]
+[[4 study/4.10 videos/4.12 productivity and studying/+study The procrastination cure you don't want to hear|+study The procrastination cure you don't want to hear]]
 
 ____
 template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.01 zettels/hidden! 8.01.01 zettel|hidden! 8.01.01 zettel]]
