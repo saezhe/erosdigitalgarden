@@ -21,9 +21,9 @@ ____
 - Studying is physical while learning is a cognitive process
 - Studying techniques that produce low learning are time consuming
 - Different techniques invoke different levels of learning
-- Memory going into [[1 inbox/long term memory|longterm memory]] is called [[2 zettels/2.20 concepts/encoding (learning)|encoding (learning)]]
+- Memory going into [[2 zettels/long term memory|longterm memory]] is called [[2 zettels/2.20 concepts/encoding (learning)|encoding (learning)]]
 - Level of encoding determines a significant amount of retention
-- Retrieving memory from [[1 inbox/long term memory|longterm memory]] to [[working memory|working memory]] in order to use it for applications is called [[retrieval (learning)|retrieval (learning)]]
+- Retrieving memory from [[2 zettels/long term memory|longterm memory]] to [[working memory|working memory]] in order to use it for applications is called [[retrieval (learning)|retrieval (learning)]]
 - Information that is in working memory instead of long term is forgotten very quickly
 - Active recall and spaced repetition work through adjusting the forgetting curve only through repetition
 - This is only working on retrieval aspect of memory only (This doesn't help with encoding)
