@@ -66,7 +66,7 @@ if the connections become overburdening you, then try this beforehand: look for 
 ____
 # references:
 
-[[4 study/4.10 videos/4.12 productivity and studying/$study The PROBLEM with Active Recall and Spaced Repetition (Truth Behind Studying Smarter)|$study The PROBLEM with Active Recall and Spaced Repetition (Truth Behind Studying Smarter)]]
+[[4 study/4.10 videos/4.12 productivity and studying/+study The PROBLEM with Active Recall and Spaced Repetition (Truth Behind Studying Smarter)|+study The PROBLEM with Active Recall and Spaced Repetition (Truth Behind Studying Smarter)]]
 
 
 <div
