@@ -14,7 +14,7 @@ a list of important pages,
 along with a query of published pages across the entire site.
 
 - [[9 extras/9.70 digital garden grounds/eros digital garden|home page]]
-- [[9 extras/9.70 digital garden grounds/dg about|about]]
+- [[9 extras/9.70 digital garden grounds/digital garden about|about]]
 	- [[2 zettels/2.10 entities/me|who am i?]]
 	- [[2 zettels/2.10 entities/@ashby sharp|@ashby sharp]]
 	- [[3 logs/m.2022.07/2022.07.04 coming out|being ]]*[[3 logs/m.2022.07/2022.07.04 coming out|gender expansive]]*
@@ -40,7 +40,7 @@ along with a query of published pages across the entire site.
 | [[9 extras/9.70 digital garden grounds/building this wonderful thing.md\|building this wonderful thing]]                                                                                                                                           |
 | [[2 zettels/2.30 collections/langs.md\|langs]]                                                                                                                                                                                                     |
 | [[2 zettels/2.10 entities/you.md\|you]]                                                                                                                                                                                                            |
-| [[9 extras/9.70 digital garden grounds/dg about.md\|dg about]]                                                                                                                                                                                     |
+| [[9 extras/9.70 digital garden grounds/digital garden about.md\|digital garden about]]                                                                                                                                                             |
 
 
 ____
