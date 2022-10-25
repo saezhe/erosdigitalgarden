@@ -9,7 +9,7 @@ tags::
 
 # encoding (learning):
 
-the proces of learning something that is integrating the learned pattern in to [[1 inbox/long term memory|longterm memory]]
+the proces of learning something that is integrating the learned pattern in to [[2 zettels/long term memory|longterm memory]]
 
 The [[2 zettels/2.20 concepts/method|methods]] for achieving encoding of knowledge is extremely complex, and there is a lot to learn about how it is best achieved.
 
