@@ -15,7 +15,7 @@ tags::
 ## FAQs:
 
 #### what is this? how did i do it?
-i am publishing this site from [[2 zettels/2.10 entities/$service obsidian|$service obsidian]] using the [digital garden plugin](https://github.com/oleeskild/obsidian-digital-garden) by [Ole Eskild Steensen](https://ole.dev/)
+i am publishing this site from [[$service obsidian|$service obsidian]] using the [digital garden plugin](https://github.com/oleeskild/obsidian-digital-garden) by [Ole Eskild Steensen](https://ole.dev/)
 
 
 ____
