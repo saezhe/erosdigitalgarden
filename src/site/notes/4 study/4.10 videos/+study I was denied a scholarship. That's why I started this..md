@@ -101,7 +101,7 @@ if [[2 zettels/2.10 entities/you|you]] want inspiration, make the [[2 zettels/2.
 
 motivation is the want, the need, the [[desire|desire]], to **continue** doing something.
 inspiration is the [[idea|ideas]], the [[knowledge|knowledge]], the enginuious novelty **injected** into what is being done.
-both require [[$study discipline|$study discipline]] as the source. ([[I was denied a scholarship. That's why I started this.#motivation - discipline|start the process of both, and both will come.]])
+both require [[+study discipline|+study discipline]] as the source. ([[I was denied a scholarship. That's why I started this.#motivation - discipline|start the process of both, and both will come.]])
 
 ### happiness
 
