@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/2-zettels/2-30-collections/langs/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+up:: 
 ts:: 2022.06.25:19.02
 type:: #list
 status:: 
@@ -19,13 +20,15 @@ list of some languages i have interacted with in some way.
 - [[spanish|spanish]]
 - italian
 - french
-#### constructed languages ([[conlangs|conlangs]]):
-- [[2 zettels/toki pona|2 zettels/toki pona]]
+#### constructed languages ([[2 zettels/conlanging|conlangs]]):
+- [[2 zettels/toki pona|toki pona]]
 - [[esperanto|esperanto]]
 - [[lojban|lojban]]
 ### [[2 zettels/2. zettels atlas/coding moc|programming]] languages:
 - [[python|python]]
 - [[java|java]]
+- [[c|c]]
+- [[rust|rust]]
 - blockly based
 	- lambda snap
 	- scratch 2.0
@@ -42,7 +45,7 @@ list of some languages i have interacted with in some way.
 - LaTeX
 - JSON
 - YAML
-#### abstract languages:
+### abstract languages:
 - math
 - lambda calculus
 
