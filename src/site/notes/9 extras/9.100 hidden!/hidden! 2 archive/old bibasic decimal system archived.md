@@ -7,7 +7,7 @@ up:: [[-0 codex]]
 ts:: 2022.08.03:20.10.38:501
 type:: #zettel
 status:: #sapling
-tags:: [[2 zettels/2.10 entities/$service obsidian|$service obsidian]] [[-2 zettels atlas]]
+tags:: [[$service obsidian|$service obsidian]] [[-2 zettels atlas]]
 ```
 
 <[[2 zettels/bibasic decimal system|new version]]>
