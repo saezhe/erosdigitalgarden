@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-study/4-10-videos/study-i-was-denied-a-scholarship-that-s-why-i-started-this/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/4-study/4-10-videos/study-i-was-denied-a-scholarship-that-s-why-i-started-this/"}
 ---
 
 up:: [[4 study/4. study atlas/-4 study notes|-4 study notes]]
@@ -41,11 +41,7 @@ how to learn [[motivation|motivation]]? learn [[2 zettels/2.20 concepts/discipli
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 up:: 
 ts:: 2022.08.15:18.55.44:155
@@ -100,7 +96,7 @@ craft your net to be as wide as possible. build it and the inspiration will come
 if [[2 zettels/2.10 entities/you|you]] want inspiration, make the [[2 zettels/2.20 concepts/discipline|disciplined]] choice of engaging with [[information|information]].
 
 motivation is the want, the need, the [[desire|desire]], to **continue** doing something.
-inspiration is the [[idea|ideas]], the [[knowledge|knowledge]], the enginuious novelty **injected** into what is being done.
+inspiration is the [[idea|ideas]], the [[2 zettels/knowledge|knowledge]], the enginuious novelty **injected** into what is being done.
 both require [[+study discipline|+study discipline]] as the source. ([[I was denied a scholarship. That's why I started this.#motivation - discipline|start the process of both, and both will come.]])
 
 ### happiness
