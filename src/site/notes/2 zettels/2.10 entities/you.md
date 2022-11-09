@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-zettels/2-10-entities/you/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/2-zettels/2-10-entities/you/"}
 ---
 
 up:: 
