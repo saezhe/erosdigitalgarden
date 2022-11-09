@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-zettels/collecting-knowledge-vs-building-knowledge/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/2-zettels/collecting-knowledge-vs-building-knowledge/"}
 ---
 
 up:: 
@@ -11,7 +11,7 @@ tags::
 # collecting knowledge vs building knowledge
 ____
 
-collecting, [[2 zettels/2.20 concepts/learning|learning]], [[studying|studying]] existing [[knowledge|knowledge]] gives you access to *so many things* that *you couldn't have thought of yourself*, but the **problems** that everyone *[[2 zettels/taking things for granted|takes for granted]]* will be instilled in you as well.
+collecting, [[2 zettels/2.20 concepts/learning|learning]], [[studying|studying]] existing [[2 zettels/knowledge|knowledge]] gives you access to *so many things* that *you couldn't have thought of yourself*, but the **problems** that everyone *[[2 zettels/taking things for granted|takes for granted]]* will be instilled in you as well.
 
 building knowledge *by yourself* **to the level of existing knowledge bases** *is very tedious*, and requires a lot of mindpower, [[work|work]], effort. you *will not find* some answers to **problems that are already solved** in the **wider world**.
 
