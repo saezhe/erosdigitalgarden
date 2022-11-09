@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-zettels/2-20-concepts/encoding-learning/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/2-zettels/2-20-concepts/encoding-learning/"}
 ---
 
 ts:: 2022.06.25:18.53
