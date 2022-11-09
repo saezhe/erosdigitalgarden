@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-zettels/bibasic-decimal-system/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/2-zettels/bibasic-decimal-system/"}
 ---
 
 up:: [[-0 codex|-0 codex]]
