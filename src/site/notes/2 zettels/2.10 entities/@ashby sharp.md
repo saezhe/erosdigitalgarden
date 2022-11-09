@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-zettels/2-10-entities/ashby-sharp/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/2-zettels/2-10-entities/ashby-sharp/"}
 ---
 
 up:: [[2 zettels/2.10 entities/2.10. entities atlas/-2.11 people moc|-2.11 people moc]]
