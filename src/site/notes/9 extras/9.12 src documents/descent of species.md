@@ -5,7 +5,6 @@
 up:: 
 ts:: 2022.11.08:19.47.38:433
 type:: #source/document
-status:: 
 tags:: [[afterlife|afterlife]] [[intelligence|intelligence]] [[existentialism|existentialism]]
 
 src:: [https://www.linkedin.com/pulse/descent-species-excerpt-form-sum-david-eagleman-khadevis-robinson](https://www.linkedin.com/pulse/descent-species-excerpt-form-sum-david-eagleman-khadevis-robinson)
