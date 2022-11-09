@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-study/4-10-videos/4-11-obsidian-and-zettelkasten/study-lyt-kit-6/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/4-study/4-10-videos/4-11-obsidian-and-zettelkasten/study-lyt-kit-6/"}
 ---
 
 ts:: 2022.08.09:12.16.26:630
