@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-zettels/2-10-entities/me/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/2-zettels/2-10-entities/me/"}
 ---
 
 up: [[2 zettels/2. zettels atlas/-2 zettels atlas|-2 zettels atlas]]
