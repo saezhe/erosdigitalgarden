@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-zettels/2-30-collections/langs/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/2-zettels/2-30-collections/langs/"}
 ---
 
 up:: 
@@ -28,7 +28,7 @@ list of some languages i have interacted with in some way.
 - [[python|python]]
 - [[java|java]]
 - [[c|c]]
-- [[rust|rust]]
+- [[2 zettels/rust|rust]]
 - blockly based
 	- lambda snap
 	- scratch 2.0
