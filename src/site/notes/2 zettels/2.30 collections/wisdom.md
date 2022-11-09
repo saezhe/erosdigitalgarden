@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-zettels/2-30-collections/wisdom/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/2-zettels/2-30-collections/wisdom/"}
 ---
 
 up:: [[+0 lawa/0. cortex/-0.00 dashboard|-0.00 dashboard]]|[[2 zettels/2. zettels atlas/-2 zettels atlas|-2 zettels atlas]]
