@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-zettels/2-20-concepts/discipline/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/2-zettels/2-20-concepts/discipline/"}
 ---
 
 up:: [[2 zettels/2.20 concepts/-2.20 concepts moc|-2.20 concepts moc]]
