@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-study/4-10-videos/4-12-productivity-and-studying/study-the-problem-with-active-recall-and-spaced-repetition-truth-behind-studying-smarter/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/4-study/4-10-videos/4-12-productivity-and-studying/study-the-problem-with-active-recall-and-spaced-repetition-truth-behind-studying-smarter/"}
 ---
 
 up:: [[4 study/4. study atlas/-4 study notes|-4 study notes]]
