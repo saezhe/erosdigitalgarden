@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/9-extras/9-100-hidden/hidden-2-archive/old-bibasic-decimal-system-archived/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/9-extras/9-100-hidden/hidden-2-archive/old-bibasic-decimal-system-archived/"}
 ---
 
 ```
