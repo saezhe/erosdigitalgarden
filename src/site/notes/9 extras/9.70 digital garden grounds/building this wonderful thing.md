@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/9-extras/9-70-digital-garden-grounds/building-this-wonderful-thing/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/9-extras/9-70-digital-garden-grounds/building-this-wonderful-thing/"}
 ---
 
 up:: [[9 extras/9.70 digital garden grounds/eros digital garden|eros digital garden]]
