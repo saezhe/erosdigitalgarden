@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-zettels/2-20-concepts/procrastination/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/2-zettels/2-20-concepts/procrastination/"}
 ---
 
 up:: 
