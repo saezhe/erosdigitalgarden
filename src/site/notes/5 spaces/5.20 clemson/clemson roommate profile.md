@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-spaces/5-20-clemson/clemson-roommate-profile/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/5-spaces/5-20-clemson/clemson-roommate-profile/"}
 ---
 
 
