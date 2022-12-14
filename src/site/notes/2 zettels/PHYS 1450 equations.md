@@ -87,7 +87,7 @@ $$
 \begin{align}
 \text{photon temperature } (T)&=\frac{0.0029}{\text{wavelength}} \\
 &=344.827586\cdot \text{frequency} \\
-\text{wavelength } (\lambda_{max})&=\frac{2898}{T}
+\text{peak emission wavelength } (\lambda_{max})&=\frac{2898}{T}
 \end{align}
 $$
 
