@@ -3,6 +3,7 @@
 ---
 
 up:: [[-0 codex|-0 codex]]
+pred:: [[2 zettels/2. zettels atlas/language moc|language moc]]
 ts:: 2022.08.03:20.10.38:501
 type:: #zettel
 status:: #c
