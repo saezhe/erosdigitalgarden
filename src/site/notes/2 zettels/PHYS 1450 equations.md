@@ -73,6 +73,14 @@ Js&=\text{Joule}\cdot \text{Second}
 \end{align}
 $$
 
+### inverse square law
+$$
+\begin{align}
+\text{formula using distance from source}&: I=\frac{I_{0}}{d^2} \\
+\text{general formula (ratio of distances)}&:I_{2}=I_{1}\cdot\left( \frac{d_{1}}{d_{2}} \right)^2 \\
+\end{align}
+$$
+
 ### Wein's law:
 
 $$
@@ -114,8 +122,8 @@ $$
 ### temperature of earth with atmoshpere:
 $$
 \begin{align}
-T&=\left( \frac{(N+1)S(1-\alpha)}{4\sigma} \right)^{ \frac{1}{4} } [K] \\
-\text{atmospheric layers}:N_{\text{Earth}}&\approx 0.65
+\text{temperature}&:T=\left( \frac{(N+1)S(1-\alpha)}{4\sigma} \right)^{ \frac{1}{4} } [K] \\
+\text{atmospheric layers}&:N_{\text{Earth}}\approx 0.65
 \end{align}
 $$
 
@@ -124,10 +132,11 @@ $$
 ### IPAT / KAYA identity
 $$
 \begin{align}
-\text{emissions}= \\
-\text{population}[\text{person}] \\
-\cdot \text{economic activity/affluence}\left[ \frac{$}{\text{person}} \right] \\
-\cdot \left( \text{technology}:\text{efficiency}\left[ \frac{\text{Watt}}{$} \right] \cdot \text{carbon intensity}\left[ \frac{\text{Carbon}}{\text{Year}\cdot \text{Watt}} \right]\right)\left[ \frac{\text{Carbon}}{\text{Year}\cdot$} \right]
+I&=P\cdot A\cdot T,\\ \text{where } T&= E\cdot I_{C} \\ \\
+\text{emissions}&= \\
+&\text{population}[\text{person}] \\
+&\cdot \text{economic activity/affluence}\left[ \frac{$}{\text{person}} \right] \\
+&\cdot \left( \text{technology}:\text{efficiency}\left[ \frac{\text{Watt}}{$} \right] \cdot \text{carbon intensity}\left[ \frac{\text{Carbon}}{\text{Year}\cdot \text{Watt}} \right]\right)\left[ \frac{\text{Carbon}}{\text{Year}\cdot$} \right]
 \end{align}
 $$
 
