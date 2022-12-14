@@ -5,7 +5,7 @@
 
 # an introduction to potential roommates at [[5 spaces/5.20 clemson/5.20. clemson atlas/-5.20 school space|clemson]]
 
-i'm [[2 zettels/2.10 entities/@ashby sharp|ashby]]! i'm a [[computer science|computer science]] major and [[3 logs/m.2022.07/2022.07.04 coming out|trans girl]] thats obsessed with [[math|math]], logic, [[2 zettels/2. zettels atlas/language moc|language]], [[2 zettels/2. zettels atlas/music moc|music]], and everything related to those. i'm a geek thats not into sports. i am easily distracted and i zone out sometimes, although i hate it when i do.
+i'm [[2 zettels/2.10 entities/@ashby sharp|ashby]]! i'm a [[computer science|computer science]] major and [[3 logs/m.2022.07/2022.07.04 coming out|trans girl]] thats obsessed with [[2 zettels/math|math]], logic, [[2 zettels/2. zettels atlas/language moc|language]], [[2 zettels/2. zettels atlas/music moc|music]], and everything related to those. i'm a geek thats not into sports. i am easily distracted and i zone out sometimes, although i hate it when i do.
 
 i have been in several clubs in highschool, primarily in a FIRST robotics competition ([[FRC|FRC]]) team as the lead programmer. i have also been in academic team, theatre club, marching band, njrotc, and student council over the years.
 
