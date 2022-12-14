@@ -3,6 +3,7 @@
 ---
 
 up:: 
+pred:: 
 ts:: 2022.11.08:19.47.38:433
 type:: #source/document
 tags:: [[afterlife|afterlife]] [[intelligence|intelligence]] [[existentialism|existentialism]]
