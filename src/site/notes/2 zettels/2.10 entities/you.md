@@ -3,6 +3,7 @@
 ---
 
 up:: 
+pred:: [[-index|-index]]
 ts:: 2022.08.02:14.02.19:602
 type:: #zettel/person 
 status:: 
