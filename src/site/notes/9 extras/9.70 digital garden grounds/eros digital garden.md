@@ -15,5 +15,5 @@ ____
 # quick links:
 ## [[9 extras/9.70 digital garden grounds/eros digital garden|home]]
 ## [[9 extras/9.70 digital garden grounds/dg sitemap|sitemap]]
-## [[9 extras/9.70 digital garden grounds/digital garden about|about]]
+## [[2 zettels/digital garden about|about]]
 ____
