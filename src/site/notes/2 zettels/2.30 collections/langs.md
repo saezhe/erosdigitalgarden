@@ -3,6 +3,7 @@
 ---
 
 up:: 
+pred:: [[2 zettels/2.30 collections/nice fonts|nice fonts]]
 ts:: 2022.06.25:19.02
 type:: #list
 status:: 
@@ -39,6 +40,7 @@ list of some languages i have interacted with in some way.
 	- arduino C++ variant
 	- RobotC (in school course)
 #### structural descriptive languages:
+- RegEx
 - XML
 	- HTML
 		- CSS
