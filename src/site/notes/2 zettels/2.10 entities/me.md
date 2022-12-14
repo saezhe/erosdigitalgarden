@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/2-zettels/2-10-entities/me/"}
 ---
 
-up: [[2 zettels/2. zettels atlas/-2 zettels atlas|-2 zettels atlas]]
+up:: [[2 zettels/2. zettels atlas/-2 zettels atlas|-2 zettels atlas]]
+pred:: [[2 zettels/2.10 entities/you|you]]
 ts:: 2022.07.06:18.49
 type:: #zettel/person 
 status:: 
