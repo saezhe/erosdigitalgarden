@@ -3,6 +3,7 @@
 ---
 
 up:: 
+pred:: [[2 zettels/freedom vs danger|freedom vs danger]]
 ts:: 2022.08.13:13.29.07:317
 type:: #zettel
 status:: #c 
@@ -11,7 +12,7 @@ tags::
 # collecting knowledge vs building knowledge
 ____
 
-collecting, [[2 zettels/2.20 concepts/learning|learning]], [[studying|studying]] existing [[2 zettels/knowledge|knowledge]] gives you access to *so many things* that *you couldn't have thought of yourself*, but the **problems** that everyone *[[2 zettels/taking things for granted|takes for granted]]* will be instilled in you as well.
+collecting, [[2 zettels/learning|learning]], [[studying|studying]] existing [[2 zettels/knowledge|knowledge]] gives you access to *so many things* that *you couldn't have thought of yourself*, but the **problems** that everyone *[[2 zettels/taking things for granted|takes for granted]]* will be instilled in you as well.
 
 building knowledge *by yourself* **to the level of existing knowledge bases** *is very tedious*, and requires a lot of mindpower, [[work|work]], effort. you *will not find* some answers to **problems that are already solved** in the **wider world**.
 
@@ -19,7 +20,7 @@ building knowledge *by yourself* **to the level of existing knowledge bases** *i
 	different aspects are ignored in each method, and participating in both should help you while supposed to be filling in the gaps in standard public knowledge;
 >	unfortunately, *both systems* are often **opposed** to accepting **new ideas** that fill in gaps that they either *[[2 zettels/taking things for granted|take for granted]]* or already **have other options** for.
 
-the **wider world** can be an *indespensible* source of [[2 zettels/2.30 collections/wisdom|wisdom]] from problems that people have **had in the past**. it's very *beneficial* for you if you **[[learn from other peoples mistakes and not yours|learn from their mistakes and not yours]]**.
+the **wider world** can be an *indespensible* source of [[2 zettels/wisdom|wisdom]] from problems that people have **had in the past**. it's very *beneficial* for you if you **[[learn from other peoples mistakes and not yours|learn from their mistakes and not yours]]**.
 
 
 ____
