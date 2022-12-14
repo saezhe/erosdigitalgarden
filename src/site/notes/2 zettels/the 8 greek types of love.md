@@ -3,6 +3,7 @@
 ---
 
 up:: 
+pred:: [[4 study/4.30 articles/+study how to have closer friendships (and why you need them)|+study how to have closer friendships (and why you need them)]]
 ts:: 2022.08.28:08.13.11:442
 type:: #zettel
 status:: #b
