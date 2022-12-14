@@ -4,6 +4,7 @@
 
 ```
 up:: [[-0 codex]]
+pred:: 
 ts:: 2022.08.03:20.10.38:501
 type:: #zettel
 status:: #sapling
