@@ -23,6 +23,7 @@ along with a query of published pages across the entire site.
 ## page query:
 | page                                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1 inbox/my favorite passage from camus' 'the plague'.md\|my favorite passage from camus' 'the plague']]                                                                                                           |
 | [[9 extras/9.12 src documents/descent of species.md\|descent of species]]                                                                                                                                           |
 | [[4 study/4.10 videos/+study The PROBLEM with Active Recall and Spaced Repetition (Truth Behind Studying Smarter).md\|+study The PROBLEM with Active Recall and Spaced Repetition (Truth Behind Studying Smarter)]] |
 | [[2 zettels/the 8 greek types of love.md\|the 8 greek types of love]]                                                                                                                                               |
