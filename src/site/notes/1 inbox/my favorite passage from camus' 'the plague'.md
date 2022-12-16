@@ -75,10 +75,7 @@ Rieux fell silent and sat down. He felt his mouth dry.
 
 "After all—?" Tarrou prompted softly.
 
-"After all," the doctor repeated, then hesitated again, fixing his eyes on Tarrou, "it's something that a man of your sort can understand most likely, but, since the order of the world is shaped by death, mightn't it be better for God if
-
-
-we refuse to believe in Him and struggle with all our might against death, without raising our eyes toward the heaven where He sits in silence."
+"After all," the doctor repeated, then hesitated again, fixing his eyes on Tarrou, "it's something that a man of your sort can understand most likely, but, since the order of the world is shaped by death, mightn't it be better for God if we refuse to believe in Him and struggle with all our might against death, without raising our eyes toward the heaven where He sits in silence."
 
 Tarrou nodded.
 
