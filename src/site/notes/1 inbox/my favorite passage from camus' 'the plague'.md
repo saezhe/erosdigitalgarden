@@ -54,7 +54,7 @@ The doctor now smiled, too.
 
 "My question's this," said Tarrou. "Why do you yourself show such devotion, considering you don't believe in God? I suspect your answer may help me to mine."
 
-His face still in shadow, Rieux said that he'd already answered: that if he believed in an all-powerful God he would cease curing the sick and leave that to Him. But no one in the world believed in a God of that sort; no, not even Paneloux, who believed that he believed in such a God. And this was proved by the fact that no one ever threw himself on Providencecompletely. Anyhow, in this respect Rieux believed himself to be on the right road—in fighting against creation as he found it.
+His face still in shadow, Rieux said that he'd already answered: that if he believed in an all-powerful God he would cease curing the sick and leave that to Him. But no one in the world believed in a God of that sort; no, not even Paneloux, who believed that he believed in such a God. And this was proved by the fact that no one ever threw himself on Providence completely. Anyhow, in this respect Rieux believed himself to be on the right road—in fighting against creation as he found it.
 
 "Ah," Tarrou remarked. "So that's the idea you have of your profession?"
 
