@@ -7,9 +7,9 @@ pred::
 ts:: 2022.09.29:09.37.36:112
 type:: #zettel
 status:: #a
-tags:: [[5 spaces/5.20 clemson/+class PHYS2450|PHYS2450]]
+tags:: [[5 spaces/5.20 clemson/+class PHYS2450\|PHYS2450]]
 
-# [[2 zettels/PHYS 1450 equations|PHYS 1450 equations]]
+# [[2 zettels/PHYS 1450 equations\|PHYS 1450 equations]]
 ____
 
 ## temperature
@@ -141,4 +141,4 @@ I&=P\cdot A\cdot T,\\ \text{where } T&= E\cdot I_{C} \\ \\
 $$
 
 ____
-template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.01 zettels/hidden! 8.01.01 zettel|hidden! 8.01.01 zettel]]
+template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.01 zettels/hidden! 8.01.01 zettel\|hidden! 8.01.01 zettel]]
