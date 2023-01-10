@@ -8,13 +8,13 @@ pred::
 ts:: 2022.08.03:20.10.38:501
 type:: #zettel
 status:: #sapling
-tags:: [[2 zettels/2.10 entities/+service obsidian|+service obsidian]] [[-2 zettels atlas]]
+tags:: [[2 zettels/2.10 entities/+service obsidian\|+service obsidian]] [[-2 zettels atlas]]
 ```
 
-<[[2 zettels/bibasic decimal system|new version]]>
+<[[2 zettels/bibasic decimal system\|new version]]>
 # bibasic decimal system (old version):
 
-i use this system i made up to index my [[2 zettels/zettelkasten|zettels]] in my [[+service obsidian]] vault.
+i use this system i made up to index my [[2 zettels/zettelkasten\|zettels]] in my [[+service obsidian]] vault.
 
 ## explanation:
 
@@ -51,7 +51,7 @@ three digits (extension of current system): `0001`-`0999`
 
 ## extras:
 
-this is compatible with many bases, but one base i'd really want to use with this is [[seximal|base six]], my favorite base!
+this is compatible with many bases, but one base i'd really want to use with this is [[seximal\|base six]], my favorite base!
 
 ____
 # references:
