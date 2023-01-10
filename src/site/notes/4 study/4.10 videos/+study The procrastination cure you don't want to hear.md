@@ -2,14 +2,14 @@
 {"dg-publish":true,"permalink":"/4-study/4-10-videos/study-the-procrastination-cure-you-don-t-want-to-hear/"}
 ---
 
-up:: [[4 study/4. study atlas/-4 study notes|-4 study notes]]
-pred:: [[2 zettels/procrastination|procrastination]]
+up:: [[4 study/4. study atlas/-4 study notes\|-4 study notes]]
+pred:: [[2 zettels/procrastination\|procrastination]]
 ts:: 2022.08.02:18.11.27.798
 type:: #study/video 
-tags:: [[2 zettels/procrastination|procrastination]] [[self help|self help]]
+tags:: [[2 zettels/procrastination\|procrastination]] [[self help\|self help]]
 
 src:: [https://www.youtube.com/watch?v=iow5V3Qlvwo](https://www.youtube.com/watch?v=iow5V3Qlvwo)
-originator:: [[better ideas|better ideas]]
+originator:: [[better ideas\|better ideas]]
 
 ____
 
@@ -30,7 +30,7 @@ its not the trick that everyone wants to work.
 we don't want it to work. we want to find little tips and tricks and doohickies we can find that sound good and ones where we get the best of both worlds - reality and fantasy
 but it does work. 'this strategy is nuclear.'
 
-it's [[boredom|boredom]].
+it's [[boredom\|boredom]].
 
 it's also the problem.
 
@@ -55,4 +55,4 @@ ____
 
 
 ____
-template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.40 studies/hidden! 8.01.41 study|hidden! 8.01.41 study]]
+template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.40 studies/hidden! 8.01.41 study\|hidden! 8.01.41 study]]
