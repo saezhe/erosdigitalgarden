@@ -9,11 +9,11 @@
 this isn't just *any* garden; this is a digital one!
 *[what is a digital garden?](https://maggieappleton.com/garden-history)*
 
-and, [[2 zettels/2.10 entities/me|who am i?]]
+and, [[2 zettels/2.10 entities/me\|who am i?]]
 
 ____
 # quick links:
-## [[9 extras/9.70 digital garden grounds/eros digital garden|home]]
-## [[9 extras/9.70 digital garden grounds/dg sitemap|sitemap]]
-## [[2 zettels/digital garden about|about]]
+## [[9 extras/9.70 digital garden grounds/eros digital garden\|home]]
+## [[9 extras/9.70 digital garden grounds/dg sitemap\|sitemap]]
+## [[2 zettels/digital garden about\|about]]
 ____
