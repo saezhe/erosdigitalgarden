@@ -2,18 +2,18 @@
 {"dg-publish":true,"permalink":"/2-zettels/bibasic-decimal-system/"}
 ---
 
-up:: [[-0 codex|-0 codex]]
-pred:: [[2 zettels/2. zettels atlas/language moc|language moc]]
+up:: [[-0 codex\|-0 codex]]
+pred:: [[2 zettels/2. zettels atlas/language moc\|language moc]]
 ts:: 2022.08.03:20.10.38:501
 type:: #zettel
 status:: #c
-tags:: [[2 zettels/2.10 entities/+service obsidian|+service obsidian]] [[2 zettels/2. zettels atlas/-2 zettels atlas|-2 zettels atlas]]
+tags:: [[2 zettels/2.10 entities/+service obsidian\|+service obsidian]] [[2 zettels/2. zettels atlas/-2 zettels atlas\|-2 zettels atlas]]
 
 # bibasic decimal system:
 
 a flexible number id system for {anything}.
 
-i use this system i made up to index my [[2 zettels/zettelkasten|zettels]] in my [[2 zettels/2.10 entities/+service obsidian|obsidian]] vault.
+i use this system i made up to index my [[2 zettels/zettelkasten\|zettels]] in my [[2 zettels/2.10 entities/+service obsidian\|obsidian]] vault.
 
 inspired in part by [johnny decimal](https://johnnydecimal.com/).
 
@@ -48,12 +48,12 @@ a custom directory prefix is helpful when digits get too deep: `foo! `, where `f
 
 ## extras:
 
-this is compatible with many bases, but one base i'd really want to use with this is [[seximal|base six]], my favorite base!
+this is compatible with many bases, but one base i'd really want to use with this is [[seximal\|base six]], my favorite base!
 
 ____
 # references:
 
-[[9 extras/9.100 hidden!/hidden! 2 archive/old bibasic decimal system archived|old bibasic decimal system archived]]
+[[9 extras/9.100 hidden!/hidden! 2 archive/old bibasic decimal system archived\|old bibasic decimal system archived]]
 
 
 [^1]: potentially content in files too but i see no need to.
