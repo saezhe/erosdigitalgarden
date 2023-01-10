@@ -8,10 +8,10 @@ ts:: 2022.12.15:20.27.49:983
 type:: #source/document
 tags:: 
 
-src:: [[9 extras/9.12 src documents/9.12.10 document annotations/The Plague (Albert Camus, Stuart Gilb... (z-lib.org)|The Plague (Albert Camus, Stuart Gilb... (z-lib.org)]]
-originator:: [[@albert camus|@albert camus]]
+src:: [[9 extras/9.12 src documents/9.12.10 document annotations/The Plague (Albert Camus, Stuart Gilb... (z-lib.org)\|The Plague (Albert Camus, Stuart Gilb... (z-lib.org)]]
+originator:: [[@albert camus\|@albert camus]]
 
-# [[1 inbox/my favorite passage from camus' 'the plague'|my favorite passage from camus' 'the plague']]:
+# [[1 inbox/my favorite passage from camus' 'the plague'\|my favorite passage from camus' 'the plague']]:
 ____
 Tarrou's gray eyes met the doctor's gaze serenely.
 
@@ -97,7 +97,7 @@ The reply came promptly:
 
 "Suffering."
 ____
-# [[9 extras/9.100 hidden!/hidden! 1 native embeds/section meta|meta]]:
+# [[9 extras/9.100 hidden!/hidden! 1 native embeds/section meta\|meta]]:
 
 ____
-template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.40 studies/hidden! 8.01.42 source document|hidden! 8.01.42 source document]]
+template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.40 studies/hidden! 8.01.42 source document\|hidden! 8.01.42 source document]]
