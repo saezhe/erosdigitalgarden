@@ -3,7 +3,7 @@
 ---
 
 up:: 
-pred:: [[4 study/4.30 articles/+study how to have closer friendships (and why you need them)|+study how to have closer friendships (and why you need them)]]
+pred:: [[4 study/4.30 articles/+study how to have closer friendships (and why you need them)\|+study how to have closer friendships (and why you need them)]]
 ts:: 2022.08.28:08.13.11:442
 type:: #zettel
 status:: #b
@@ -11,7 +11,7 @@ tags::
 
 kindof notes
 
-# [[2 zettels/the 8 greek types of love|the 8 greek types of love]]
+# [[2 zettels/the 8 greek types of love\|the 8 greek types of love]]
 ____
 
 the greeks were much more diverse in the distinct aspects of love, care, compassion, empathy, much more than our word of 'love' as a blanket term.
@@ -69,22 +69,22 @@ mural i made of all these pictures:
 
 ## aside
 
-[[2 zettels/the 8 greek types of love#^16c382|(ref) platonic love vs romantic love]]:
+[[2 zettels/the 8 greek types of love#^16c382\|(ref) platonic love vs romantic love]]:
 
 there seems to be semantical confusion over the current differences bewteen platonic, queerplatonic, romantic, physical, and sexual loves.
 
-as with everything, i challenge people to [[find new ways of thinking|think in new ways]].
+as with everything, i challenge people to [[find new ways of thinking\|think in new ways]].
 
 ____
 # references:
 
-[[2020|2020]]
+[[2020\|2020]]
 [https://www.ftd.com/blog/give/types-of-love](https://www.ftd.com/blog/give/types-of-love)
 
-[[2011|2011]]-[[2012|2012]]
+[[2011\|2011]]-[[2012\|2012]]
 forum, people talking about what platonic and romantic mean to them.
 [https://www.asexuality.org/en/topic/69053-platonic-love-vs-romantic-love/](https://www.asexuality.org/en/topic/69053-platonic-love-vs-romantic-love/) ^16c382
 
 
 ____
-template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.01 zettels/hidden! 8.01.01 zettel|hidden! 8.01.01 zettel]]
+template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.01 zettels/hidden! 8.01.01 zettel\|hidden! 8.01.01 zettel]]
