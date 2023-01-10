@@ -3,14 +3,14 @@
 ---
 
 ts:: 2022.08.09:12.16.26:630
-up:: [[4 study/4. study atlas/-4 study notes|-4 study notes]]
-pred:: [[2 zettels/ACCESS system|ACCESS system]]
+up:: [[4 study/4. study atlas/-4 study notes\|-4 study notes]]
+pred:: [[2 zettels/ACCESS system\|ACCESS system]]
 type:: #study/video
 status:: 
-tags:: [[2 zettels/2.10 entities/linking your thinking|linking your thinking]]
+tags:: [[2 zettels/2.10 entities/linking your thinking\|linking your thinking]]
 
 src:: https://www.linkingyourthinking.com/lyt-kit-6
-originator:: [[@nick milo|@nick milo]]
+originator:: [[@nick milo\|@nick milo]]
 
 # resources
 
@@ -39,10 +39,10 @@ ____
 
 ###### what were we doing before linked notes? (the history)
 
-the most natural form of [[2 zettels/note making|note formation]] is in your mind. everything else augments this form.
-when your mind creates [[2 zettels/connection|connection]] between things it takes in and things that it already knows, it [[6 rember/-6 rember|remembers]] that [[information|information]].
+the most natural form of [[2 zettels/note making\|note formation]] is in your mind. everything else augments this form.
+when your mind creates [[2 zettels/connection\|connection]] between things it takes in and things that it already knows, it [[6 rember/-6 rember\|remembers]] that [[information\|information]].
 
-the oldest form of non-biological ([[technology|technological]]) note taking is writing things down physically.
+the oldest form of non-biological ([[technology\|technological]]) note taking is writing things down physically.
 when the technological age arrived, we began to have digital tools for taking notes that were based on simulating writing, such as MS word. these types of things have documents that are totally separate and clunky to write.
 evernote introduced the ability to write seperate notes quickly. we still don't know how to make sense of all of these notes. in this stage we are drowning in piles of unordered incoherent ideas that can't be easily organised.
 *enter: the linked note.*
@@ -50,7 +50,7 @@ the first part of the picture is already there: the speed and repition of creati
 the second part that completes the first is the act of crosslinking multiple notes to eachother.
 this linking between new notes and notes that already exists create chains and networks of connected knowledge; one where someone could wander and roam on a self guided journey of connected coherent thought patterns.
 
-the effect of this is that it *augments* the human brain with a tool that *behaves similarly* to the human brain. it is basically an emulation of linking information in the same way that the brain does. it *extends the brain* with technology; a [[neuroprosthetics|neuroprosthetic]].
+the effect of this is that it *augments* the human brain with a tool that *behaves similarly* to the human brain. it is basically an emulation of linking information in the same way that the brain does. it *extends the brain* with technology; a [[neuroprosthetics\|neuroprosthetic]].
 
 ### lesson 2 make notes for life using living notes
 
@@ -78,6 +78,6 @@ ____
 
 
 ____
-template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.40 studies/hidden! 8.01.41 study|hidden! 8.01.41 study]]
+template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.40 studies/hidden! 8.01.41 study\|hidden! 8.01.41 study]]
 
 
