@@ -3,11 +3,11 @@
 ---
 
 up::
-pred:: [[2 zettels/clemson move in 2022|clemson move in 2022]]
+pred:: [[2 zettels/clemson move in 2022\|clemson move in 2022]]
 ts:: 2022.07.10:09.56.45
 type:: #list/packingList
 status:: 
-tags:: [[5 spaces/5.20 clemson/5.20. clemson atlas/-5.20 school space|clemson]]|[[2 zettels/clemson move in 2022|move in 2022]]
+tags:: [[5 spaces/5.20 clemson/5.20. clemson atlas/-5.20 school space\|clemson]]|[[2 zettels/clemson move in 2022\|move in 2022]]
 
 # packing list clemson move in
 
@@ -116,7 +116,7 @@ https://housing.clemson.edu/housing/move-in/
 	- [x] shoes
 		- [x] casual
 		- [x] doc martens
-		- [x] flip flops [[5 spaces/5.20 clemson/packing list clemson move in#toiletries|also here]]
+		- [x] flip flops [[5 spaces/5.20 clemson/packing list clemson move in#toiletries\|also here]]
 		- [x] slippers
 	- [x] socks
 	- [x] underwear
@@ -174,7 +174,7 @@ https://housing.clemson.edu/housing/move-in/
 
 ## things i thought of afterwards:
 - [ ] hand sanitiser
-- [ ] water jug? [[should i have sink water or filtered bottle refill water for cooking (ramen)|should i have sink water or filtered bottle refill water for cooking (ramen)]]
+- [ ] water jug? [[should i have sink water or filtered bottle refill water for cooking (ramen)\|should i have sink water or filtered bottle refill water for cooking (ramen)]]
 - [ ] ✨ fem products ✨
 - [ ] bathroom scale?
 - [ ] command strips
@@ -210,7 +210,7 @@ ____
 - [ ] ~~fever thermometer~~
 - [ ] ~~zip lock bags~~
 - [ ] hand sanitiser
-- [ ] water jug? [[should i have sink water or filtered bottle refill water for cooking (ramen)|should i have sink water or filtered bottle refill water for cooking (ramen)]]
+- [ ] water jug? [[should i have sink water or filtered bottle refill water for cooking (ramen)\|should i have sink water or filtered bottle refill water for cooking (ramen)]]
 - [ ] ✨ fem products ✨
 - [ ] bathroom scale?
 - [ ] command strips
@@ -222,4 +222,4 @@ ____
 
 
 ____
-template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.12 list/hidden! 8.01.12.02 packing list|hidden! 8.01.12.02 packing list]]
+template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.12 list/hidden! 8.01.12.02 packing list\|hidden! 8.01.12.02 packing list]]
