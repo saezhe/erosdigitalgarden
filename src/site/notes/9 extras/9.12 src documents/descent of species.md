@@ -6,10 +6,10 @@ up::
 pred:: 
 ts:: 2022.11.08:19.47.38:433
 type:: #source/document
-tags:: [[afterlife|afterlife]] [[intelligence|intelligence]] [[existentialism|existentialism]]
+tags:: [[afterlife\|afterlife]] [[intelligence\|intelligence]] [[existentialism\|existentialism]]
 
 src:: [https://www.linkedin.com/pulse/descent-species-excerpt-form-sum-david-eagleman-khadevis-robinson](https://www.linkedin.com/pulse/descent-species-excerpt-form-sum-david-eagleman-khadevis-robinson)
-originator:: [[@david eagleman|@david eagleman]]
+originator:: [[@david eagleman\|@david eagleman]]
 
 ____
 Descent of Species
@@ -24,7 +24,7 @@ Suddenly, for just a moment, you are aware of the problem you overlooked. The mo
 
 This moment of lucidity does not last long. But it serves as the punishment for your sins, a Promethean entrails-pecking moment, crouching half-horse halfman, with the knowledge that you cannot appreciate the destination without knowing the starting point; you cannot revel in the simplicity unless you remember the alternatives. And that's not the worst of your revelation. You realize that the next time you return here, with your thick horse brain, you won't have the capacity to ask to become a human again. You won't understand what a human is. Your choice to slide down the intelligence ladder is irreversible. And just before you lose your final human faculties, you painfully ponder what magnificent extraterrestrial creature, enthralled with the idea of finding a simpler life, chose in the last round to become a human.
 ____
-# [[9 extras/9.100 hidden!/hidden! 1 native embeds/section meta|meta]]:
+# [[9 extras/9.100 hidden!/hidden! 1 native embeds/section meta\|meta]]:
 
 ____
-template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.40 studies/hidden! 8.01.42 source document|hidden! 8.01.42 source document]]
+template:: [[9 extras/9.100 hidden!/hidden! 8 templates/hidden! 8.01 templater/hidden! 8.01.40 studies/hidden! 8.01.42 source document\|hidden! 8.01.42 source document]]
