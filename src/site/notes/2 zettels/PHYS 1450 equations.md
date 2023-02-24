@@ -7,7 +7,7 @@ pred::
 ts:: 2022.09.29:09.37.36:112
 type:: #zettel
 status:: #a
-tags:: [[5 spaces/5.20 clemson/+class PHYS2450\|PHYS2450]]
+tags:: [[5 spaces/5.20 clemson/5.20.20 archive/1f/+class PHYS2450\|PHYS2450]]
 
 # [[2 zettels/PHYS 1450 equations\|PHYS 1450 equations]]
 ____
