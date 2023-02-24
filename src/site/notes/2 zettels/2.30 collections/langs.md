@@ -25,9 +25,11 @@ list of some languages i have interacted with in some way.
 - [[2 zettels/toki pona\|toki pona]]
 - [[esperanto\|esperanto]]
 - [[lojban\|lojban]]
+- [[gameubanik\|gameubanik]]
 ### [[2 zettels/2. zettels atlas/coding moc\|programming]] languages:
 - [[python\|python]]
 - [[java\|java]]
+- [[cpp\|c++]]
 - [[c\|c]]
 - [[2 zettels/rust\|rust]]
 - blockly based
@@ -48,7 +50,8 @@ list of some languages i have interacted with in some way.
 - JSON
 - YAML
 ### abstract languages:
-- math
+- standard english math
+- propositional / predicate logic
 - lambda calculus
 
 
