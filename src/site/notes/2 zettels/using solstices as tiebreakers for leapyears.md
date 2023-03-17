@@ -17,7 +17,8 @@ a way we can produce a perfectly synchronised and indisputable calendar, with th
 - every year should start on a solstice (and the tiebreaker is whether or not the solstice occurs when the sun is on one side of the crossing over point or the other)
 - the actual calendar weeks and months should be regular and start on a specific day of the week each year, resulting in the remaining days being padding for the year and will be part of the new year holidays, which the leap days would naturally fall into (and no mod \# of years calculations needed!).
 
-we could also start the year on intervals of a week and have leap weeks, but i am opposed to that idea if we can do leap days instead, still influenced by when .
+we could also start the year on intervals of a week and have leap weeks, but i am opposed to that idea if we can do leap days instead, still influenced by when in the week the solstice happens.
+- [[which day is the start of the week\|which day is the start of the week]]? the week cycle is [[arbitrary\|arbitrary]] so there is no correct answer, but i like to think of it as a modular arithmetic where sunday is both 0 and 7 at the same time, so it is simultaneously the beginning (0) and the end (7=0) of the week. the months in this model would follow suit, where the 0th day of the month is a sunday, and the 28th day of the month is a sunday which acts as the 0th day of the next month.
 
 conventions needed:
 - crossing over longitude on earth:
