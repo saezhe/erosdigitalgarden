@@ -23,6 +23,7 @@ along with a query of published pages across the entire site.
 ## page query:
 | page                                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[2 zettels/using solstices as tiebreakers for leapyears\|using solstices as tiebreakers for leapyears]]                                                                                                         |
 | [[9 extras/9.12 src documents/my favorite passage from camus' 'the plague'\|my favorite passage from camus' 'the plague']]                                                                                       |
 | [[9 extras/9.12 src documents/descent of species\|descent of species]]                                                                                                                                           |
 | [[4 study/4.10 videos/+study The PROBLEM with Active Recall and Spaced Repetition (Truth Behind Studying Smarter)\|+study The PROBLEM with Active Recall and Spaced Repetition (Truth Behind Studying Smarter)]] |
