@@ -17,7 +17,9 @@ a cure: [[boredom\|boredom]].
 (make the thing you ought to be doing the least boring thing you can do)
 then you will do it.
 
-procrastination is an addiction ^yck24j
+procrastination is an addiction
+{ #yck24j}
+
 
 ____
 # references:
