@@ -83,7 +83,9 @@ ____
 
 [[2011\|2011]]-[[2012\|2012]]
 forum, people talking about what platonic and romantic mean to them.
-[https://www.asexuality.org/en/topic/69053-platonic-love-vs-romantic-love/](https://www.asexuality.org/en/topic/69053-platonic-love-vs-romantic-love/) ^16c382
+[https://www.asexuality.org/en/topic/69053-platonic-love-vs-romantic-love/](https://www.asexuality.org/en/topic/69053-platonic-love-vs-romantic-love/)
+{ #16c382}
+
 
 
 ____
