@@ -126,7 +126,9 @@ it is always availiable for us to steer ourselves in a way which we are still ha
 ''there is **no** path *to*' happiness. but there are paths *of* happiness that you can take
 (take them!) via [[2 zettels/discipline\|discipline]]. get on those happy paths!
 
-happiness is a biproduct of doing things that you value. what makes a path of happiness is making things and doing things of value to you. ^c61915
+happiness is a biproduct of doing things that you value. what makes a path of happiness is making things and doing things of value to you.
+{ #c61915}
+
 
 this can be 
 
