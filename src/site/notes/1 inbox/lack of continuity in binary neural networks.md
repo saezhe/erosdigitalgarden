@@ -12,7 +12,7 @@ tags::
 ____
 # [[1 inbox/lack of continuity in binary neural networks\|lack of "continuity" in binary neural networks]]:
 
-this concern is that the reasoning that removing the messages between neurons being real numbers reduces the capability for gradual change in the learning process, and that bit flips in transfer weights are all or nothing and too savage of a shift.
+this concern is the reasoning that removing the messages between neurons being real numbers reduces the capability for gradual change in the learning process, and that bit flips in transfer weights are all or nothing and too savage of a shift.
 
 but let me remind you that under the sending of real numbers in weights are only illusions of such, and under the hood it is actually another network of binary computations transmuting binary signals.
 
