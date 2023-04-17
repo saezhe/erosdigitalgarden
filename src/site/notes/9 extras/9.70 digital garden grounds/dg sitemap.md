@@ -23,7 +23,7 @@ along with a query of published pages across the entire site.
 ## page query:
 | page                                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[1 inbox/lack of "continuity" in binary neural networks\|lack of "continuity" in binary neural networks]]                                                                                                       |
+| [[1 inbox/lack of continuity in binary neural networks\|lack of continuity in binary neural networks]]                                                                                                           |
 | [[9 extras/9.12 src documents/my favorite passage from camus' 'the plague'\|my favorite passage from camus' 'the plague']]                                                                                       |
 | [[9 extras/9.12 src documents/descent of species\|descent of species]]                                                                                                                                           |
 | [[4 study/4.10 videos/+study The procrastination cure you don't want to hear\|+study The procrastination cure you don't want to hear]]                                                                           |
